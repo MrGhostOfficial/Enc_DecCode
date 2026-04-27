@@ -48,7 +48,7 @@ https://
 
 
 # [ First Copy & paste in Termux☟ ]
-𝐍𝐨𝐭𝐞: Before using this script you need to setup termux using my 𝑐𝑜𝑚.𝑡𝑒𝑟𝑚𝑢𝑥.𝑡𝑎𝑟.𝑔𝑧 customized termux backup file click here [TermuxRestore](https://github.com/MrGhostOfficial/TermuxRestore.git) if you have already done it, it is not needed anymore, just follow the instructions after the git clone, copy commands in one click using the chrome browser, paste in termux.👇<br/>
+𝐍𝐨𝐭𝐞: Before using this script you need to use my ↪️: [𝐓𝐞𝐫𝐦𝐮𝐱𝐄𝐥𝐞𝐯𝐚𝐭𝐞𝐝](https://github.com/MrGhostOfficial/TermuxElevated.git) if you already done it, then no needed anymore, use chrome browser and copy paste in termux.👇
 # [ Setup & run Script ]
 ```
 git clone https://github.com/MrGhostOfficial/Enc_DecCode.git
