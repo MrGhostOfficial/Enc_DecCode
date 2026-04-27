@@ -66,7 +66,7 @@ python2 Script.py
 
 <img src=![Screenshot](https://github.com/MrGhostOfficial/Admin.Network/blob/master/Enc_DecCode.jpg)
 
-[[INFO](https://github.com/)] if you are facing any issues then Contact us telegram. And don't forget to Follow GitHub, Hope you Like it Enjoy.🥀👻
+[[INFO](https://t.me/NetCyberCoder)] if you are facing any issues then Contact us telegram. And don't forget to Follow GitHub, Hope you Like it Enjoy.🥀👻
 
 # [License & copyright]
 ![IMG-Copyright-2023](https://github.com/MrGhostOfficial/Admin.Network/blob/master/License_copyright.jpg)
